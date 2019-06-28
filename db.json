@@ -1,1 +1,22 @@
-
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Ensalada de pollo",
+      "precioPlatillo": "123",
+      "categoria": "ensalada",
+      "id": 11
+    },
+    {
+      "nombrePlatillo": "DGDFG",
+      "precioPlatillo": "123",
+      "categoria": "bebida",
+      "id": 12
+    },
+    {
+      "nombrePlatillo": "sdfg",
+      "precioPlatillo": "12432",
+      "categoria": "bebida",
+      "id": 13
+    }
+  ]
+}
